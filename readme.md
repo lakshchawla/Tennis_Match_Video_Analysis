@@ -66,4 +66,3 @@ The analysis pipeline involves the following steps:
 - **Scripts**: Includes the main analysis script and utility functions.
 - **Tracker Stubs**: Cached data for faster testing and debugging.
 - **Demo File**: A sample `demo.gif` showcasing the project output.
-
